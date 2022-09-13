@@ -16,8 +16,8 @@ Algunos de estos pasos se pueden hacer de manera concurrente. Intentad repartiro
 ````
   # 
   1# 
- #2 
-  # 
+  #2 
+   # 
 ````
 
 En este ejemplo, el jugador 1 solo puede moverse a la izquierda, y el 2 a la derecha. La pared está representada por el carácter '#'
