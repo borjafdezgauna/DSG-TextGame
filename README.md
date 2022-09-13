@@ -1,12 +1,20 @@
 # Maze Game
 
+## Objetivo
+
+Este es el primer proyecto de la asignatura **Desarrollo de Sistemas Gráficos**, del curso 4 del **Grado en Informática de Gestión y Sistemas de Información** impartido en la **Escuela de Ingeniería de Vitoria-Gasteiz**.
+
+
+## Pasos a seguir
+
+Algunos de estos pasos se pueden hacer de manera concurrente. Intentad repartiros el trabajo de manera que nadie esté esperando a otra persona
 
 1. Lo primero de todo es acordar cómo vamos a representar en memoria el contenido de la mazmorra. Hay que hacer un esquema que muestre la relación entre la mazmorra vista como una matriz y el array de caracteres que tenemos en Maze.Cells. Este dibujo lo guardaremos como una imagen (foto con el móvil por ejemplo) y lo añadiremos al repositorio en docs/maze.jpg para que todo el mundo lo tenga claro
 
 2. Implementar el constructor Maze(string fileContent). El string que se le pasa representa el contenido leído de un fichero. Algo así:
 
 ````
- #  
+  # 
   1# 
  #2 
   # 
